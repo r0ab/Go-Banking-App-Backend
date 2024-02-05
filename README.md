@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Golang banking app
 
 This is app for the Duomly Golang Course - Learn Golang by building banking App
@@ -17,6 +17,3 @@ go run main.go
 ```
 go run main.go
 ```
-=======
-
->>>>>>> 75cd77213338dab5497bd4624b6f7f9a3902e59d
